@@ -1,0 +1,19 @@
+{
+  "name": "climate-app",
+  "version": "1.0.0",
+  "description": "This is node-typescript app example. Actions speak louder than words. Try to not become a man of success. Become a man of value.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.12",
+    "@types/react-dom": "^18.2.5"
+  }
+}
